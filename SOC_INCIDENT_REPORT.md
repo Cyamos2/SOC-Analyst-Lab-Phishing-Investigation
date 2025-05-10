@@ -13,10 +13,10 @@
 See `IOC_LOG.md`
 
 ## Analysis
-> Describe your investigation steps, findings, and log evidence.
+Typed in the link to both places. One was showing Fortinet as a phishing attempt and the other produced a 400 HTTP error.
 
 ## Outcome
-> Summary of containment or remediation.
+Improved phishing simulations and awareness.
 
 ## Lessons Learned
 - Were there any detection gaps?
